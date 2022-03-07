@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B7A9BC527D5A00F00961B74 /* decodingJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7A9BC427D5A00F00961B74 /* decodingJson.swift */; };
 		7BBBD3CC27D1F9F80014E641 /* ChallengeTaskGroupApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBBD3CB27D1F9F80014E641 /* ChallengeTaskGroupApp.swift */; };
 		7BBBD3CE27D1F9F80014E641 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBBD3CD27D1F9F80014E641 /* ContentView.swift */; };
 		7BBBD3D027D1F9FA0014E641 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BBBD3CF27D1F9FA0014E641 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7B7A9BC427D5A00F00961B74 /* decodingJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = decodingJson.swift; sourceTree = "<group>"; };
 		7BBBD3C827D1F9F80014E641 /* ChallengeTaskGroup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChallengeTaskGroup.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BBBD3CB27D1F9F80014E641 /* ChallengeTaskGroupApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeTaskGroupApp.swift; sourceTree = "<group>"; };
 		7BBBD3CD27D1F9F80014E641 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				7BBBD3CB27D1F9F80014E641 /* ChallengeTaskGroupApp.swift */,
+				7B7A9BC427D5A00F00961B74 /* decodingJson.swift */,
 				7BBBD3CD27D1F9F80014E641 /* ContentView.swift */,
 				7BBBD3CF27D1F9FA0014E641 /* Assets.xcassets */,
 				7BBBD3D127D1F9FA0014E641 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B7A9BC527D5A00F00961B74 /* decodingJson.swift in Sources */,
 				7BBBD3CE27D1F9F80014E641 /* ContentView.swift in Sources */,
 				7BBBD3CC27D1F9F80014E641 /* ChallengeTaskGroupApp.swift in Sources */,
 			);
